@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=ericchu-splatoon-2-font
+name=Splatoon 2 Font
+version=0.0.1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=ericchu
+description=Applies the Splatoon 2 font
 template=4
